@@ -1,8 +1,10 @@
-python
-node js
-xammp
-vs code
+Download this repo
+download python
+download node js
+download xammp
+download vs code
 
+in xammp
 create db=> pet_adoption
 import db
 
